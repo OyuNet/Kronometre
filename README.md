@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Küçük bir not!
+Kişisel bir denemeydi benim için. Öylesine otururken 1 saatte ne çıkarabilirim diye düşünürken birden aklıma kronometre yapmak geldi. Tasarımsal olarak eksiklikleri muhakkak vardır, elimden geleni yaptım. Kronometre yaptım ama kaç dakikada yazdığımı tutmak aklıma gelmedi ne yazık ki :-). Yaklaşık 45-50 dakika sürdü diye tahmin ediyorum. 
+
+Neysenim efenim, öyle her projeye MUI doldurmaktan gına geldiydi, tailwind'e bir dalıverdim; çok da keyifliydi benim için. Fıront endçiler taşlamazsa iyi.
+Canlıdaki halini görmek isterseniz sizi [şöyle](https://kronometre.comax.tech) alalım.
+
+
+
 
 ## Getting Started
 
